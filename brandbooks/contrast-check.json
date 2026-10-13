@@ -1,0 +1,56 @@
+[
+  {
+    "theme": "cinema",
+    "pair": "Основной текст / фон",
+    "ratio": 16.18,
+    "passes": true
+  },
+  {
+    "theme": "cinema",
+    "pair": "Инверсный текст / фон",
+    "ratio": 15.32,
+    "passes": true
+  },
+  {
+    "theme": "cinema",
+    "pair": "Текст кнопки / акцент",
+    "ratio": 7.35,
+    "passes": true
+  },
+  {
+    "theme": "architecture",
+    "pair": "Основной текст / фон",
+    "ratio": 12.19,
+    "passes": true
+  },
+  {
+    "theme": "architecture",
+    "pair": "Инверсный текст / фон",
+    "ratio": 13.31,
+    "passes": true
+  },
+  {
+    "theme": "architecture",
+    "pair": "Текст кнопки / акцент",
+    "ratio": 6.74,
+    "passes": true
+  },
+  {
+    "theme": "atelier",
+    "pair": "Основной текст / фон",
+    "ratio": 11.0,
+    "passes": true
+  },
+  {
+    "theme": "atelier",
+    "pair": "Инверсный текст / фон",
+    "ratio": 12.13,
+    "passes": true
+  },
+  {
+    "theme": "atelier",
+    "pair": "Текст кнопки / акцент",
+    "ratio": 7.29,
+    "passes": true
+  }
+]

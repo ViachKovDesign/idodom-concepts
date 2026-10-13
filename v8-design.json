@@ -1,0 +1,78 @@
+{
+  "version": 8,
+  "assets": {
+    "sofa": "assets/v8/sofa-defrans-original.jpg",
+    "table": "assets/v8/table-bronx-1.jpg",
+    "room": "assets/v8/table-bronx-5.jpg",
+    "detail": "assets/v8/table-bronx-9.jpg",
+    "portrait": "assets/v8/andrey-kazantsev-portrait.jpg",
+    "woman": "assets/v8/interior-fullbody.jpg",
+    "chair": "assets/collection/80c0551b42a3314d.webp",
+    "sculpture": "assets/collection/4e7a2be0989b4d76.webp"
+  },
+  "categories": [
+    {
+      "key": "upholstery",
+      "title": "Мягкая мебель",
+      "choose": "мягкую мебель",
+      "desc": "Комфорт, который становится частью комнаты.",
+      "src": "assets/v8/sofa-defrans-original.jpg"
+    },
+    {
+      "key": "tables",
+      "title": "Столы",
+      "choose": "столы",
+      "desc": "Центр встреч. Выразительная геометрия.",
+      "src": "assets/v8/table-bronx-1.jpg"
+    },
+    {
+      "key": "chairs",
+      "title": "Стулья и кресла",
+      "choose": "стулья и кресла",
+      "desc": "Своя форма. Свой ритм жизни.",
+      "src": "assets/collection/80c0551b42a3314d.webp"
+    },
+    {
+      "key": "sculptures",
+      "title": "Полигональные фигуры",
+      "choose": "полигональные фигуры",
+      "desc": "Авторские объекты из металла.",
+      "src": "assets/collection/4e7a2be0989b4d76.webp"
+    }
+  ],
+  "concepts": [
+    {
+      "key": "architecture",
+      "route": "gallery.html",
+      "name": "Architecture",
+      "caption": "Обновлённый эталон",
+      "title": "Жить<br>с формой.",
+      "intro": "От предмета —<br>к пространству.",
+      "desc": "Предмет обретает смысл в вашем пространстве.",
+      "bg": "#f8f8f5",
+      "ink": "#242a28"
+    },
+    {
+      "key": "forma",
+      "route": "index.html",
+      "name": "Forma",
+      "caption": "Абстрактный минимализм",
+      "title": "Форма<br>вашей жизни.",
+      "intro": "Пространство,<br>которое говорит о вас.",
+      "desc": "Мебель, интерьер и искусство. Ваш выбор.",
+      "bg": "#f4f2ec",
+      "ink": "#292c29"
+    },
+    {
+      "key": "volume",
+      "route": "atelier.html",
+      "name": "Volume",
+      "caption": "Свет, объём, тишина",
+      "title": "Жить<br>в своём ритме.",
+      "intro": "Дом начинается<br>с ощущения.",
+      "desc": "Предметы с характером. Пространство для жизни.",
+      "bg": "#f5f3ee",
+      "ink": "#302e29"
+    }
+  ]
+}

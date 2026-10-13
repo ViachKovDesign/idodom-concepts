@@ -1,0 +1,11 @@
+{
+  "lat": 55.88768,
+  "lon": 37.436264,
+  "zoom": 16,
+  "width": 1152,
+  "height": 576,
+  "address": "ул. Бутаково, 4, Химки, Московская область, 141700",
+  "coordinateSource": "https://idodom.ru/contacts/",
+  "mapSource": "https://www.openstreetmap.org/",
+  "attribution": "© OpenStreetMap contributors"
+}
